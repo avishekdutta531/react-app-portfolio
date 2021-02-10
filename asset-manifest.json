@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/avishekdutta531/react-app-portfolio/static/css/main.5f6f804f.chunk.css",
+    "main.js": "/avishekdutta531/react-app-portfolio/static/js/main.80157824.chunk.js",
+    "main.js.map": "/avishekdutta531/react-app-portfolio/static/js/main.80157824.chunk.js.map",
+    "runtime-main.js": "/avishekdutta531/react-app-portfolio/static/js/runtime-main.f46817ff.js",
+    "runtime-main.js.map": "/avishekdutta531/react-app-portfolio/static/js/runtime-main.f46817ff.js.map",
+    "static/js/2.0ab6f836.chunk.js": "/avishekdutta531/react-app-portfolio/static/js/2.0ab6f836.chunk.js",
+    "static/js/2.0ab6f836.chunk.js.map": "/avishekdutta531/react-app-portfolio/static/js/2.0ab6f836.chunk.js.map",
+    "index.html": "/avishekdutta531/react-app-portfolio/index.html",
+    "static/css/main.5f6f804f.chunk.css.map": "/avishekdutta531/react-app-portfolio/static/css/main.5f6f804f.chunk.css.map",
+    "static/js/2.0ab6f836.chunk.js.LICENSE.txt": "/avishekdutta531/react-app-portfolio/static/js/2.0ab6f836.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/avishekdutta531/react-app-portfolio/static/media/bg.d580cd37.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f46817ff.js",
+    "static/js/2.0ab6f836.chunk.js",
+    "static/css/main.5f6f804f.chunk.css",
+    "static/js/main.80157824.chunk.js"
+  ]
+}
